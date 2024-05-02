@@ -1,1 +1,3 @@
-# News Categorie Classifier
+# News Category Classification
+
+
